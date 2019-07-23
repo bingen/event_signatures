@@ -1,0 +1,4 @@
+node_modules
+aragonOS_events.*
+
+package-lock.json

@@ -1,0 +1,14 @@
+{
+  "name": "event_signatures",
+  "version": "1.0.0",
+  "description": "Compute all Aragon event signatures",
+  "main": "event_signatures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ßingen",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha3": ""
+  }
+}
